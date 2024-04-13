@@ -1,0 +1,4 @@
+npm install crypto-js
+npm install react-router-dom
+npm install @fortawesome/free-solid-svg-icons
+npm install @fortawesome/react-fontawesome @fortawesome/free-regular-svg-icons
